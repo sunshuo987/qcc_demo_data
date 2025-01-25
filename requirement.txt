@@ -1,0 +1,7 @@
+matplotlib==3.8.0
+numpy==1.26.1
+pandas==2.2.3
+pyscf==2.4.0
+qiskit==0.44.2
+qiskit-nature==0.6.2
+qiskit-terra==0.25.2.1
